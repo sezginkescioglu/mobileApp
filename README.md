@@ -1,2 +1,2 @@
-# mobileApp
-Custom News Mobile Application
+# MOBILE MEDIA CENTER APPLICATION
+
